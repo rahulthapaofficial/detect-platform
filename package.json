@@ -1,0 +1,26 @@
+{
+  "name": "detect-platform",
+  "version": "1.0.0",
+  "description": "A platform detection library. Written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulthapaofficial/detect-platform.git"
+  },
+  "keywords": [
+    "detect-platform",
+    "detect-browser"
+  ],
+  "author": "Rahul Thapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulthapaofficial/detect-platform/issues"
+  },
+  "homepage": "https://github.com/rahulthapaofficial/detect-platform#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
