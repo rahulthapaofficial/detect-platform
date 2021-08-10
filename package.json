@@ -12,15 +12,16 @@
   },
   "keywords": [
     "detect-platform",
-    "detect-browser"
+    "detect-browser",
+    "detect",
+    "useragent",
+    "browser",
+    "platform"
   ],
-  "author": "Rahul Thapa",
+  "author": "Rahul Thapa <rahulthapa043@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rahulthapaofficial/detect-platform/issues"
   },
-  "homepage": "https://github.com/rahulthapaofficial/detect-platform#readme",
-  "dependencies": {
-    "user": "0.0.0"
-  }
+  "homepage": "https://github.com/rahulthapaofficial/detect-platform#readme"
 }
