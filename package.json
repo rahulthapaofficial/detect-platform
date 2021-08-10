@@ -1,6 +1,6 @@
 {
   "name": "detect-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A platform detection library. Written in JavaScript.",
   "main": "index.js",
   "scripts": {
