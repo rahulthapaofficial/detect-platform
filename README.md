@@ -1,14 +1,16 @@
-# What is this?
+# What is Detect-Platform?
 
 A platform detection library. Written in JavaScript.
 
-# Installation
+## Installation
 
-`npm i detect-platform --save`
+```html
+npm i detect-platform --save
+```
 
 Then...
 
-```
+```html
 import { platform } from 'detect-platform';
 
 platform();
